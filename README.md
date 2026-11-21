@@ -4,6 +4,8 @@
 
 **A versão interativa do site do DisasterLink, com slideshow, quiz, formulário de contato e troca de tema**
 
+[![Acessar o site](https://img.shields.io/badge/Vercel-Acessar%20o%20site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://disasterlink-site.vercel.app)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -71,7 +73,7 @@ git clone https://github.com/SpaceConnect-DisasterLink/site-interativo.git
 cd site-interativo
 ```
 
-Depois, abra o arquivo `index.html` no navegador (é só dar dois cliques nele).
+Depois, abra o arquivo `index.html` no navegador (é só dar dois cliques nele). A versão publicada está em [disasterlink-site.vercel.app](https://disasterlink-site.vercel.app).
 
 <details>
 <summary><b>Pelo VS Code</b></summary>
